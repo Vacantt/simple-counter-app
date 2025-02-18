@@ -1,3 +1,5 @@
+# Simple counter app
+
 This is a simple counter app built using HTML, JavaScript, and Tailwind CSS. This app allows users to increment or decrement a counter by clicking buttons.
 
 <h2>Features</h2>
